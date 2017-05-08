@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "935866938730",
+    "firebase_url": "https://clanapp-d35d2.firebaseio.com",
+    "project_id": "clanapp-d35d2",
+    "storage_bucket": "clanapp-d35d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935866938730:android:603fbd489dd093c0",
+        "android_client_info": {
+          "package_name": "cl.clanapp.clanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935866938730-55nh0droovko6sn5npjdm1afsf8glm3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.clanapp.clanapp",
+            "certificate_hash": "03082d6d93578b101592b3f8a43076a38a31272f"
+          }
+        },
+        {
+          "client_id": "935866938730-icdl11miv99h1ffh8ir2cj3vjgr841fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuOm8IeoYUeWioWDZBV8TLaxCQcYD-Ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935866938730-icdl11miv99h1ffh8ir2cj3vjgr841fa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935866938730-gfhenq8h8dcoblctbt1bkvp59vtfa9ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.clanapp.clanapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
