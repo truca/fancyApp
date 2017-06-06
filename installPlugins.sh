@@ -9,3 +9,7 @@ cordova plugin add cordova-plugin-inappbrowser --save
 # Plugin to handle deep linking through Custom Scheme for iOS
 # Substitute com.firebase.cordova with the iOS bundle ID of your app.
 # cordova plugin add cordova-plugin-customurlscheme --variable URL_SCHEME=com.firebase.cordova --save
+#to get photos from gallery or camera
+cordova plugin add cordova-plugin-camera
+cordova plugin add cordova-plugin-firebase
+cordova plugin add https://github.com/jach145/cordova-plugin-fcm

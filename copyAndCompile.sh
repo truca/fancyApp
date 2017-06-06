@@ -3,4 +3,4 @@ cd ../web/
 sh mkDist.sh
 cd ../app/
 cp -r ../web/dist www/
-cordova run android --device
+cordova run android

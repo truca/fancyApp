@@ -1,0 +1,29 @@
+{
+    "name": "cl.clanapp.clanapp",
+    "version": "1.0.0",
+    "displayName": "ClanApp",
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "plugins": {
+            "cordova-plugin-browsertab": {},
+            "cordova-plugin-buildinfo": {},
+            "cordova-plugin-fcm": {},
+            "cordova-plugin-inappbrowser": {},
+            "cordova-plugin-whitelist": {},
+            "cordova-universal-links-plugin": {},
+            "cordova-plugin-firebase": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "^6.2.3",
+        "cordova-plugin-browsertab": "~0.2.0",
+        "cordova-plugin-buildinfo": "~1.1.0",
+        "cordova-plugin-fcm": "https://github.com/jach145/cordova-plugin-fcm",
+        "cordova-plugin-firebase": "^0.1.21",
+        "cordova-plugin-inappbrowser": "~1.7.1",
+        "cordova-plugin-whitelist": "1",
+        "cordova-universal-links-plugin": "~1.2.1"
+    }
+}
