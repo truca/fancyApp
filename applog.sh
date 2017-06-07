@@ -1,6 +1,1 @@
-#!/bin/sh
-PACKAGE=$1
-APPPID=`adb -d shell ps | grep "${PACKAGE}" | cut -c10-15 | sed -e 's/ //g'`
-adb -d logcat -v long \
- | tr -d '\r' | sed -e '/^\[.*\]/ {N; s/\n/ /}' | grep -v '^$' \
- | grep " ${APPPID}:"
+pid=$(adb shell ps | grep cl.clanapp.clanapp | cut -c11-15) ; adb logcat | grep $pid
