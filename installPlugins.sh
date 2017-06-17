@@ -19,3 +19,5 @@ cordova plugin add https://github.com/jach145/cordova-plugin-fcm
 cordova plugin add cordova-plugin-geolocation
 #plugin for whitelisting domains
 cordova plugin add cordova-whitelist-plugin
+#dialogs
+cordova plugin add cordova-plugin-dialogs
