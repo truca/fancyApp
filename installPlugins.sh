@@ -21,3 +21,5 @@ cordova plugin add cordova-plugin-geolocation
 cordova plugin add cordova-whitelist-plugin
 #dialogs
 cordova plugin add cordova-plugin-dialogs
+#plugin for badge of unread messages
+#cordova plugin add cordova-plugin-badge
