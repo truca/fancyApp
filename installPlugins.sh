@@ -23,3 +23,5 @@ cordova plugin add cordova-whitelist-plugin
 cordova plugin add cordova-plugin-dialogs
 #plugin for badge of unread messages
 #cordova plugin add cordova-plugin-badge
+#plugin to transfer images
+cordova plugin add cordova-plugin-file-transfer

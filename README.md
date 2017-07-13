@@ -9,3 +9,8 @@ pass: Demian2017
 digital ocean:
 user: demianschkolnik@gmail.com                        
 pass: Clanapp2017
+
+Uploader:
+http://servel.ml/uploader/
+user: theadmin
+pass: clanners!unite
