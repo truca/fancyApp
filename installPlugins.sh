@@ -25,3 +25,7 @@ cordova plugin add cordova-plugin-dialogs
 #cordova plugin add cordova-plugin-badge
 #plugin to transfer images
 cordova plugin add cordova-plugin-file-transfer
+
+#geolocation checking
+cordova plugin add cordova.plugins.diagnostic --save
+cordova plugin cordova-plugin-request-location-accuracy --save

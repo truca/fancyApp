@@ -4,7 +4,7 @@ pass: clanapp2016!
 
 itunes connect
 user: demianschkolnik@gmail.com
-pass: Demian.apple123
+pass: 998013Apple
 
 digital ocean:
 user: demianschkolnik@gmail.com                        
