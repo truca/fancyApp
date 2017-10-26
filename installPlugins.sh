@@ -11,21 +11,22 @@ cordova plugin add cordova-plugin-inappbrowser --save
 cordova plugin add cordova-plugin-customurlscheme --variable URL_SCHEME=cl.clanapp.clanapp --save
 
 #to get photos from gallery or camera
-cordova plugin add cordova-plugin-camera
+cordova plugin add cordova-plugin-camera --save
 #cordova plugin add cordova-plugin-firebase@0.1.21 --save
 #notifications plugin
-cordova plugin add https://github.com/jach145/cordova-plugin-fcm
+cordova plugin add https://github.com/jach145/cordova-plugin-fcm --save
 #plugin for geolocation
-cordova plugin add cordova-plugin-geolocation
+cordova plugin add cordova-plugin-geolocation --save
 #plugin for whitelisting domains
-cordova plugin add cordova-whitelist-plugin
+cordova plugin add cordova-whitelist-plugin --save
 #dialogs
-cordova plugin add cordova-plugin-dialogs
+cordova plugin add cordova-plugin-dialogs --save
 #plugin for badge of unread messages
 #cordova plugin add cordova-plugin-badge
 #plugin to transfer images
-cordova plugin add cordova-plugin-file-transfer
+cordova plugin add cordova-plugin-file-transfer --save
 
 #geolocation checking
 cordova plugin add cordova.plugins.diagnostic --save
 cordova plugin cordova-plugin-request-location-accuracy --save
+cordova plugin add cordova-plugin-statusbar --save
